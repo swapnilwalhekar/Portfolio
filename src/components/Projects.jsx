@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import { useState } from "react";
 
@@ -17,30 +16,6 @@ function Projects() {
       gLink: "https://github.com/hafizjavaid",
       lLink: "https://me-hafiz.netlify.app/",
     },
-    // {
-    //   title: "Project 3",
-    //   img: "/projects/3.png",
-    //   gLink: "https://github.com/hafizjavaid",
-    //   lLink: "https://me-hafiz.netlify.app/",
-    // },
-    // {
-    //   title: "Project 4",
-    //   img: "/projects/4.png",
-    //   gLink: "https://github.com/hafizjavaid",
-    //   lLink: "https://me-hafiz.netlify.app/",
-    // },
-    // {
-    //   title: "Project 5",
-    //   img: "/projects/5.png",
-    //   gLink: "https://github.com/hafizjavaid",
-    //   lLink: "https://me-hafiz.netlify.app/",
-    // },
-    // {
-    //   title: "Project 6",
-    //   img: "/projects/6.png",
-    //   gLink: "https://github.com/hafizjavaid",
-    //   lLink: "https://me-hafiz.netlify.app/",
-    // }
   ]);
   return (
     <section className="projects" id="projects">

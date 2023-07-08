@@ -12,7 +12,7 @@ function App() {
         <Banner/>
         <ServicesExperience/>
         <Projects/>
-        <Footer/>n
+        <Footer/>
     </div>
   );
 }
